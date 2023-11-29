@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 ![fofa_viewer](https://socialify.git.ci/wgpsec/fofa_viewer/image?font=Bitter&forks=1&issues=1&language=1&logo=https%3A%2F%2Fwww.wgpsec.org%2F_nuxt%2Fimg%2Fnew_logo.91d92b1.svg&name=1&owner=1&pattern=Circuit%20Board&stargazers=1&theme=Light)
 
@@ -117,3 +118,8 @@ idea打开项目，等待依赖包下载完毕后直接双击Plugins-assembly-as
 
 [![Stargazers over time](https://starchart.cc/wgpsec/fofa_viewer.svg)](https://starchart.cc/wgpsec/fofa_viewer)
 
+=======
+# fofa_viewer
+二开fofa_viewer  ，添加了一个可以导出txt文件的按钮
+![Uploading image.png…]()
+>>>>>>> 397b96d36f1b491ee665c0b5abe1b7161a21767b
